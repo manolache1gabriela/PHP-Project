@@ -1,0 +1,16 @@
+{
+    "name": "manol/demo",
+    "authors": [
+        {
+            "name": "Manolache Gabriela",
+            "email": "manolachegabriela23@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\" : "Core/",
+            "Http\\" : "Http/"
+        }
+    }
+}
